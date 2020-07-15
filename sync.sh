@@ -1,0 +1,1 @@
+rsync -av ../MindSpore sensetime-pc:~/ --exclude=cmake-build-debug --exclude=.idea

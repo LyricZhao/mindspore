@@ -72,3 +72,6 @@ mindspore/default_config.py
 mindspore/.commit_id
 onnx.proto
 mindspore/ccsrc/onnx.proto
+
+# Scripts for utils (chenggang)
+sync.sh
